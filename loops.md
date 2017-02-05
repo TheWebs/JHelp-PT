@@ -9,6 +9,19 @@ for(variavel;condicao;accao)
 ex:
 for(int i = 0; i < 3; i++)
 {
-  System.out.println(i); //imprimiria 012
+  System.out.println(i); //imprime 012
 }
 ```
+##ForEach
+```java
+
+for(por cada elemento nome do tipo String contido no array nomes)
+{
+  imprime um nome;
+}
+
+String[] nomes = new String[] {"Jose", "Manuel", "Joao", "Pedro"};
+for(String nome : nomes)
+{
+  System.out.println(nome); //imprime Jose Manuel Joao Pedro
+}
