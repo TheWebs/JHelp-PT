@@ -28,7 +28,7 @@ System.out.println(array[3]);
 System.out.println(array[4]);
 ```
 O programa acima apresentado imprime "00" (em linhas diferentes).
-Com os arrays de tipo String os elementos comecao a null.
+Com os arrays de tipo String os elementos comecam a null.
 
 ##Loop por elementos de um array:
 Como obter ou aplicar alguma accao a todos os elementos de um array:
