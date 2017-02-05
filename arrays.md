@@ -6,7 +6,7 @@ String[] array; //exemplo usando String
 ```
 Os arrays precisam de ser inicializados, que pode ser feito manualmente ou nao, desta forma:
 
-```
+```java
 String[] array;
 //Forma 1
 array = new String[20]; //cria um array com 20 elementos que vai do 0 ao 19
