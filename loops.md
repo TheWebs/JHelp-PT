@@ -43,3 +43,19 @@ while(i < 5)
   System.out.println(i); //imprime 01234
   i++;
 }
+```
+##DoWhile
+```java
+do --->repete o codigo entre chavetas enquanto a condicao dentro do while se verificar
+{
+accoes
+}while(condicao);
+
+ex:
+int i = 0;
+do
+{
+  System.out.println(i); //imprime 01234
+  i++
+}while(i < 5);
+```
