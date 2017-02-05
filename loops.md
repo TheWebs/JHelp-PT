@@ -27,3 +27,19 @@ for(String nome : nomes)
 {
   System.out.println(nome); //imprime Jose Manuel Joao Pedro
 }
+```
+##While
+```java
+while(condicao) ---> equanto a condicao se verificar repetira o codigo dentro de chavetas
+{
+  accoes;
+}
+
+ex:
+int i = 0;
+
+while(i < 5)
+{
+  System.out.println(i); //imprime 01234
+  i++;
+}
