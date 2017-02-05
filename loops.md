@@ -59,4 +59,4 @@ do
   i++
 }while(i < 5);
 ```
-![GitHub Logo](https://github.com/TheWebs/JHelp-PT/blob/master/giphy%20(34).gif?raw=true)
+![GitHub Logo](https://github.com/TheWebs/JHelp-PT/blob/master/Imagens/giphy%20(34).gif?raw=true)
