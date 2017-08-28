@@ -1,5 +1,5 @@
-#Loops
-##For
+# Loops
+## For
 ```java
 for(variavel;condicao;accao)
 {
@@ -12,7 +12,7 @@ for(int i = 0; i < 3; i++)
   System.out.println(i); //imprime 012
 }
 ```
-##ForEach
+## ForEach
 ```java
 
 for(por cada elemento nome do tipo String contido no array nomes)
@@ -28,7 +28,7 @@ for(String nome : nomes)
   System.out.println(nome); //imprime Jose Manuel Joao Pedro
 }
 ```
-##While
+## While
 ```java
 while(condicao) ---> equanto a condicao se verificar repetira o codigo dentro de chavetas
 {
@@ -44,7 +44,7 @@ while(i < 5)
   i++;
 }
 ```
-##DoWhile
+## DoWhile
 ```java
 do --->repete o codigo entre chavetas enquanto a condicao dentro do while se verificar
 {
