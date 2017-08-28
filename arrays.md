@@ -1,5 +1,5 @@
-#Arrays
-##Criacao e inicializacao
+# Arrays
+## Criacao e inicializacao
 Um array e basicamente um conjunto de varios objectos do mesmo tipo, int, double, String, float, etc.. Sao criados desta forma:
 ```java
 String[] array; //exemplo usando String
@@ -13,7 +13,7 @@ array = new String[20]; //cria um array com 20 elementos que vai do 0 ao 19
 //Forma 2
 array = new String[] {"texto1", "texto2", "texto3"}; //cria um array com 3 elementos que vai do 0 ao 2
 ```
-##Elementos do array
+## Elementos do array
 Para aceder a um elemento especifico do array usa se parenteses rectos:
 ```java
 String[] array;
@@ -30,7 +30,7 @@ System.out.println(array[4]);
 O programa acima apresentado imprime "00" (em linhas diferentes).
 Com os arrays de tipo String os elementos comecam a null.
 
-##Loop por elementos de um array:
+## Loop por elementos de um array:
 Como obter ou aplicar alguma accao a todos os elementos de um array:
 
 ```java
